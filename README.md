@@ -40,4 +40,4 @@ python dosi.py
 SOL Address : 
 ```tYx9QAvAABjendNELwaLpTgXEXgj9QaDjC61co7zR5F```
 
-BSC Address : 0xd3de361b186cc2Fc0C77764E30103F104a6d6D07
+BSC Address : 0x84352e6913317d82B1CE2dAf96EbF816aF48f843
