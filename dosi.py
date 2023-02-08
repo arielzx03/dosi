@@ -20,7 +20,7 @@ class DOSI:
 def main():
 
 	while True:
-		for s in open("session_lists.txt").read().splitlines():
+		for s in open("session.txt").read().splitlines():
 			x = DOSI(s)
 			print(x.claimDon())
 			print(x.getBalance())
