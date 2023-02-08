@@ -30,7 +30,7 @@ TXiXab..........
 
 ## • How to Run?
 ```bash
-cd DOSI
+cd dosi
 pip install -r requirements.txt
 python dosi.py
 ```
