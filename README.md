@@ -2,7 +2,9 @@
 
 
 ## • Installation
-```apt install python3```
+```
+apt install python3
+```
 
 ```bash
 git clone https://github.com/arielzx03/dosi.git
@@ -10,7 +12,8 @@ git clone https://github.com/arielzx03/dosi.git
 
 ## • Ambil dosi_ses
 Harus pake PC
-Bukan chrome, klik kanan, klik inspect
+
+Buka chrome, klik kanan, klik inspect / ctrl + shift + i
 Terus cari cookies
 Copy value dosi_ses nya 
 
